@@ -1,6 +1,6 @@
 # REST API with GetX
 
-A new Flutter project.
+In this Repo I have shown how to integrate REST API with GetX application inside Flutter.
 
 ## Getting Started
 
