@@ -1,4 +1,4 @@
-# rest_api
+# REST API with GetX
 
 A new Flutter project.
 
